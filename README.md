@@ -6,13 +6,13 @@ This script (interpret.py in Python 3.10) reads the XML representation of the pr
 
 Params
 > --help
-  writes script help to standard output
+writes script help to standard output
 
 > --source=file
-  an input file with an XML representation of the source code
+an input file with an XML representation of the source code
 
 > --input=file
-  a file with inputs for the interpretation of the given source code itself
+a file with inputs for the interpretation of the given source code itself
 
 Evaluation
   9.7/12 points
