@@ -1,5 +1,6 @@
 # IPP2
 This is a follow-up project to IPP1 in my repositories.
+
 Project for subject Principles of Programming Languages (IPP).
 ------------------------------
 This script (interpret.py in Python 3.10) reads the XML representation of the program and then, using the input according to the command line parameters, interprets it and generates the output.
