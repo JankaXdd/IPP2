@@ -7,8 +7,10 @@ This script (interpret.py in Python 3.10) reads the XML representation of the pr
 Params
 > --help
   writes script help to standard output
+
 > --source=file
   an input file with an XML representation of the source code
+
 > --input=file
   a file with inputs for the interpretation of the given source code itself
 
